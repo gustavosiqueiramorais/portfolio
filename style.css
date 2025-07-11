@@ -112,6 +112,18 @@ body::before {
     box-shadow: 0 0 10px #ffffff9f;
 }
 
+.portfolio_menu{
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+}
+
+#curriculo{
+    width: 370px;
+    height: 225px;
+
+}
+
 .habilidades_titulo h1{
     font-family: "Roboto Mono", sans-serif;
     color: #fff;
